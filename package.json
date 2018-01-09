@@ -1,0 +1,22 @@
+{
+  "name": "cryptocurrency-rate-usd-cli",
+  "version": "1.0.0",
+  "description": "A command line interface for getting the most recent cryptocurrency rates in USD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah-schaab/cryptocurrency-rate-usd-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarah-schaab/cryptocurrency-rate-usd-cli/issues"
+  },
+  "homepage": "https://github.com/sarah-schaab/cryptocurrency-rate-usd-cli#readme",
+  "dependencies": {
+    "node-coinmarketcap": "^0.2.0"
+  }
+}
